@@ -12,4 +12,4 @@ A simple implementation of the Black Jack card game in Python. The game simulate
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/BlackJack-Game.git
+   git clone https://github.com/your_username/BlackJack.git
